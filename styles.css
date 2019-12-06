@@ -1,0 +1,45 @@
+img {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    padding-top: 125px;
+}
+
+form {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2%;
+    width: 10%;
+}
+
+button {
+    display: inline;
+}
+
+ul {
+    font-family: sans-serif;
+    list-style-type: none;
+    margin: -10px;
+    padding: -10px;
+    overflow: hidden;
+    background-color: #1f1f1f;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgba(255, 255, 255, 0.747);
+    text-decoration: none;
+    padding: 8px;
+    background-color: #202020;
+}
+
+li a:hover {
+
+color: white;
+
+}
