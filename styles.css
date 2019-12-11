@@ -43,3 +43,32 @@ li a:hover {
 color: white;
 
 }
+
+/* Flex */
+
+#google-img {
+
+    display: flex; 
+    justify-content: center;
+
+}
+
+#google-index-form {
+
+    display: flex; 
+    justify-content: center;
+    margin: auto;
+
+}
+
+.buttons-index {
+
+    display: flex; 
+    justify-content: space-between;
+    height: 22px;
+    width: 250px;
+    margin: auto;
+    padding: 30px;
+
+
+}
